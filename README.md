@@ -3,12 +3,11 @@ Espaço para divulgação de informações interessantes na área de Sistemas Em
 
 ---
 
-[**Bases de informações**](http://): bases com informações e notícias sobre Sistemas Embarcados.
+[**Bases de informações**](bases.md): bases com informações e notícias sobre Sistemas Embarcados.
 
-[**Cursos**](http://): cursos gratuitos e pagos sobre Sistemas Embarcados.
+[**Cursos**](cursos.md): cursos gratuitos e pagos sobre Sistemas Embarcados.
 
-[**Ferramentas**](http://): ferramentas online e para instalar, tanto gratuitas quanto pagas.
+[**Ferramentas**](ferramentas_online.md): ferramentas online e para instalar, tanto gratuitas quanto pagas.
 
-[**Livros e revistas**](http://): livros e revistas gratuitos e recomendações de livros pagos na área de Sistemas Embarcados.
+[**Livros e revistas**](livros.md): livros e revistas gratuitos e recomendações de livros pagos na área de Sistemas Embarcados.
 
-[**Projetos**](http://): fonte de consulta para projetos.
