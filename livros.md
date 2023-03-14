@@ -17,6 +17,7 @@
 
 [**Programe Raspberry Pi com Python**](https://embarcados.com.br/e-books/e-book-programe-raspberry-pi-com-python/): E-book sobre programação em Python na plataforma Raspberry Pi.
 
+[**Descobrindo o Linux Embarcado**](https://embarcados.com.br/e-books/e-book-descobrindo-o-linux-embarcado/): E-book sobre fundamentos do uso de sistema Linux em embarcados.
 
 ### REVISTAS GRATUITAS
 
