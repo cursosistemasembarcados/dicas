@@ -19,6 +19,10 @@
 
 [**Descobrindo o Linux Embarcado**](https://embarcados.com.br/e-books/e-book-descobrindo-o-linux-embarcado/): E-book sobre fundamentos do uso de sistema Linux em embarcados.
 
+#### Livros gratuitos desenvolvidos pela Espressif
+
+[**ESP32-C3 - Wireless Adventure: A Comprehensive Guide to IoT**](https://www.espressif.com/sites/default/files/documentation/ESP32-C3%20Wireless%20Adventure.pdf/): E-book gratuito sobre conceitos fundamentais da plataforma ESP32-C3 e IoT.
+
 ### REVISTAS GRATUITAS
 
 [**Revistas Instituto NCB (Newton C. Braga)**](https://www.newtoncbraga.com.br/index.php/revista-incb-eletronica.html): Acervo de revistas sobre eletrônica e sistemas embarcados.
