@@ -6,7 +6,7 @@ Lista de cursos pagos e gratuitos, podendo ter ou não a emissão de certificado
 
 [**CNC4you**](https://new.siemens.com/br/pt/produtos/drives/cnc4you.html): Portal mantido pela Siemens com cursos e conteúdos sobre programação CNC. Para saber mais sobre o portal, acesse o [**canal do YouTube**](https://www.youtube.com/channel/UCf53q427esK-P8dFoSrnmFw) da CNC4you.
 
-[**Cursos Microchip**](https://www.artimar.com.br/programas-microchip): Galeria de cursos da Microchip.
+[**Cursos Microchip (gratuito)**](https://www.artimar.com.br/programas-microchip): Galeria de cursos da Microchip.
 
 ### UDEMY (gratuitos)
 
